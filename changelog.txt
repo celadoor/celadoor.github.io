@@ -1,0 +1,9 @@
+created by celadoor.
+
+
+version 0.0.2 -Added description of selected video, (must be enabled in skin).
+-Improved video quality to standard definition.
+
+Version 0.0.1 -Initial Release. Plays all the latest Richplanet videos.
+Richplanet Tv Video Plugin is derived from Voinage's Plugin Tutorial
+
