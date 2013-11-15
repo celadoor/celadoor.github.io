@@ -1,0 +1,7 @@
+created by celadoor.
+
+
+Version 0.0.1 -Initial Release. Plays  the People's Voice live Video
+stream.
+ Video Plugin is derived from Voinage's Plugin Tutorial
+
