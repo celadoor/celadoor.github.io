@@ -1,5 +1,6 @@
 created by celadoor.
 
+Version 0.0.2 -Fixed url changes.
 
 Version 0.0.1 -Initial Release. Plays  the People's Voice live Video
 stream.
