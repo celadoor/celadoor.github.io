@@ -1,5 +1,7 @@
 created by celadoor.
 
+Version 0.0.4 -UI Cosmetic changes and further url changes.
+
 Version 0.0.3 -Fixed url changes.
 
 Version 0.0.2 -Fixed url changes.
