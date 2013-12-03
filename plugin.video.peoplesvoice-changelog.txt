@@ -1,4 +1,6 @@
 created by celadoor.
+Version 0.0.8 -Cleaned up fanart
+
 Version 0.0.7 -Tidy up for repo.
 
 Version 0.0.6 -Added basic program guide, further additions for repo.

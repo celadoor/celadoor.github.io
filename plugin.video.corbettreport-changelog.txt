@@ -1,5 +1,6 @@
 created by celadoor.
 
+Version 0.0.2 -Made changes ready for official repo.
 
 Version 0.0.1 -Initial Release. Plays all the latest Corbett Report Video
 podcasts.
