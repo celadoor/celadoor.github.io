@@ -1,6 +1,6 @@
 Plays  the People's Voice live video stream. created by celadoor.
 
-Version 0.0.9 -Fixed Channel Logo url and Program schedule url
+Version 0.0.9 -Fixed Channel Logo,video url and Program schedule url
 
 Version 0.0.8 -Cleaned up fanart
 
