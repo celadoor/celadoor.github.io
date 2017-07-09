@@ -1,6 +1,0 @@
-created by celadoor.
-
-
-Version 0.0.4 -Initial Release. conscious consumer network video plugin.
-
-
